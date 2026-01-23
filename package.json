@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-alipay",
+  "name": "@foskym/capacitor-alipay",
   "version": "0.0.1",
   "description": "Capacitor plugin for Alipay",
   "main": "dist/plugin.cjs.js",
@@ -76,5 +76,6 @@
     "android": {
       "src": "android"
     }
-  }
+  },
+  "packageManager": "pnpm"
 }
